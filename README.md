@@ -14,7 +14,7 @@ almost nothing. By rendering everything as Javascript, the code can then be call
 a public blockchain record (EVM cryptocurrency transaction). Therefore we can build toward a 
 simple "stub" or "boot up" code that is simply passed the string "camera" and it pulls down all 
 of the javascript, evaluates ( eval() ) the code into the current environment, and executes it from
-there. This builds towards a solution which reduces the need for individual coders to find a 
+there. This moves us towards a solution which reduces the need for individual coders to find a 
 server (probably NodeJS or some service) and install the code. 
 
 A system of rewards can also be installed where both the original coder and any contributors get paid
